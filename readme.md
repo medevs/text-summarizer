@@ -1,0 +1,1 @@
+# ChatGPT React Text Summarizer
