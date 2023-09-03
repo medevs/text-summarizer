@@ -1,7 +1,4 @@
-// eslint-disable-next-line no-unused-vars
-import React from "react";
-
-import { logo } from "../assets";
+import { logo } from '../assets';
 
 const Hero = () => {
   return (
@@ -29,7 +26,7 @@ const Hero = () => {
         that transforms lengthy articles into clear and concise summaries
       </h2>
     </header>
-  );
-};
+  )
+}
 
-export default Hero;
+export default Hero
